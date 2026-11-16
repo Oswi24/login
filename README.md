@@ -4,7 +4,9 @@
 >
 > **Institución:** TESOEM
 >
-> **Alumno:** Hernandez Sanchez Christopher Oswaldo · **Grupo:** 7S1
+> **Alumno:** Hernandez Sanchez Christopher Oswaldo
+>
+>**Grupo:** 7S1
 
 Aplicación Android de **una sola pantalla**, escrita en **Java** con vistas XML, que implementa el
 diseño de una interfaz de **inicio de sesión**. La estructura se basa en `LinearLayout` (con
