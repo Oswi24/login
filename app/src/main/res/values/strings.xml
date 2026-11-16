@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login Material 3</string>
+    <string name="titulo">Bienvenido</string>
+    <string name="subtitulo">Inicia sesión para continuar</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="recordarme">Recordarme</string>
+    <string name="olvidaste">¿Olvidaste tu contraseña?</string>
+    <string name="ingresar">Iniciar sesión</string>
+    <string name="o">o</string>
+    <string name="google">Continuar con Google</string>
+    <string name="sin_cuenta">¿No tienes cuenta?</string>
+    <string name="registrate">Regístrate</string>
+    <string name="cd_logo">Logotipo de la aplicación</string>
+    <string name="error_correo">Ingresa un correo válido</string>
+    <string name="error_contrasena">Mínimo 6 caracteres</string>
+    <string name="msg_ok">Formato correcto (demo, sin conexión a servidor)</string>
+    <string name="msg_demo">Función de demostración: solo diseño</string>
+</resources>
