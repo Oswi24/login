@@ -1,6 +1,7 @@
 # Práctica · Interfaz de Login con Material Design 3 y Material You (Java)
 
-> **Asignatura:** Diseño y Desarrollo de Interfaces Móviles · **Institución:** TESOEM
+> **Asignatura:** Diseño y Desarrollo de Interfaces Móviles
+> **Institución:** TESOEM
 > **Alumno:** Hernandez Sanchez Christopher Oswaldo · **Grupo:** 7S1
 
 Aplicación Android de **una sola pantalla**, escrita en **Java** con vistas XML, que implementa el
